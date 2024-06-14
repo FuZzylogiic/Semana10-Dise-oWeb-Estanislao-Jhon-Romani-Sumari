@@ -1,0 +1,16 @@
+p.parrafo1{
+    background-color: bisque;
+    /*padding: 20 px;*/
+    
+    padding-top: 20px;
+    padding-bottom: 25px;
+    padding-right: 30px;
+    padding-left: 5px;
+    text-align: justify;
+}
+p.parrafo2{
+    background-color: tomato;
+    text-align: justify;
+    
+  padding: 30px 25px;
+}
